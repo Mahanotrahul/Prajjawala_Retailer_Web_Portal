@@ -1,4 +1,4 @@
-# Prajjawala_Retailer_Web_Portal
+# Retailer_Web_Portal
 This repository contains the files developed as part of the Smart India Hacathon - 2019 competition in the Students Innovation category. 
 The competition was held from 1st to 3rd March 2019 at Kolkata. My team was awarded the 2nd Runner up position.
 
